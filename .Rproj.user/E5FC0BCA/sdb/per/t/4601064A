@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Assignment1\"\nauthor: \"Danielle\"\noutput: github_document\n---\n\n## Hello Octocat\nI love Octocat. She’s the coolest cat in town.\n![](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/images/octocat.png)\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n",
+    "created" : 1469129193556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2413557968",
+    "id" : "4601064A",
+    "lastKnownWriteTime" : 1469130040,
+    "last_content_update" : 1469130042000,
+    "path" : "~/Desktop/STATS/Assignment1/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
